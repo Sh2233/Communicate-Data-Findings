@@ -10,11 +10,11 @@ by (Shehab Manna)
      
      
      
-     #DATA : https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv%26amp;sa%3DD%26amp;ust%3D1581581520570000&sa=D&source=editors&ust=1641473135858000&usg=AOvVaw0sUubSvaLIrAWnOEAmpUp6
+#DATA : https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv%26amp;sa%3DD%26amp;ust%3D1581581520570000&sa=D&source=editors&ust=1641473135858000&usg=AOvVaw0sUubSvaLIrAWnOEAmpUp6
      
     
  ## Summary of Findings : 
-    - This findings go through the features of loans would affect the BorrowerRate , it explored that loan term is positively correlated with Borrowing Rate as example on loans with long term as 60 month take high rate and on other hand loan with short term as 12 month  takes low rates , it also explored that loan amount  is negativly correlated with Borrowing Rate as example on loans with large amount as 10000$  take low rate and on other hand loan with low amount as 500$ month  takes high rates  , and it explored that loan amount  is negativly correlated with ProsperScore ( risk score ) if the Borrower get high score as 10 its safe assign and he will get a low rate and on other hand if he scores 
+- This findings go through the features of loans would affect the BorrowerRate , it explored that loan term is positively correlated with Borrowing Rate as example on loans with long term as 60 month take high rate and on other hand loan with short term as 12 month  takes low rates , it also explored that loan amount  is negativly correlated with Borrowing Rate as example on loans with large amount as 10000$  take low rate and on other hand loan with low amount as 500$ month  takes high rates  , and it explored that loan amount  is negativly correlated with ProsperScore ( risk score ) if the Borrower get high score as 10 its safe assign and he will get a low rate and on other hand if he scores 
  1 or 2 he will get a high rates , it finds that a borrower is a homeowner that will increase the chance that he will get a high interest rate on other hand if he isn't a homeowner he will gets a high interest rate. finally if the borrower want to get a loan with low rate so he must focus on gets a loan with not long term and proves that he is homeowner and he scoring high score as much he is can in  ProsperScore and amount of the loan should not be high.
   
  
